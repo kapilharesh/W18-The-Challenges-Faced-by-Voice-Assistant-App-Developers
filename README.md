@@ -12,4 +12,4 @@ Inspired by the findings of Murphy-Hill, Zimmermann, and Nagappan in the paper [
 
 This repository aims to host a copy of our data set that contains the raw data (before it was filtered for posts with at least 500 views), as well as all the analysis and derived charts and tables that were used in the paper submitted.
 
-A LaTeX copy of this paper will be made available as well.
+A LaTeX and PDF copy of the paper is available for reference in this repository.
